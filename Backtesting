@@ -1,0 +1,8 @@
+# Backtesting Engine
+
+- Simulates historical trades
+- Calculates:
+  - Profit/Loss
+  - Drawdown
+  - Win rate
+- Includes slippage and fees
